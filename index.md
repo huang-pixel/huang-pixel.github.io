@@ -1,8 +1,14 @@
 ---
-title: About
+title: Home
 layout: home
 ---
-A daily record teaching myself how to code.
+
+#### About me
+
+
+As an ADHDer and self-learner, I try to write some very short articles here about the ideas hanging around in my mind.
+
+
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
