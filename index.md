@@ -1,15 +1,17 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-#### About me
+
+#### About me  
+
+<p>I like to call myself Kuma, aka <em>Bear</em> in Japanese.<br>
+As an ADHDer and self-learner, I try to write some very short articles here about the ideas hanging around in my mind.</p>
 
 
-As an ADHDer and self-learner, I try to write some very short articles here about the ideas hanging around in my mind.
-
-
-----
+---
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
