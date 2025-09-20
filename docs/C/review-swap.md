@@ -1,5 +1,5 @@
 ---
-title: Swap in C and python
+title: Parameter or Argument
 layout: minimal
 parent: Daily Code
 ---

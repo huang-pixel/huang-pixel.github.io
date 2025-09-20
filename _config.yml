@@ -11,7 +11,7 @@ aux_links:
 nav_enabled: true
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
 
 sass:
   quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
